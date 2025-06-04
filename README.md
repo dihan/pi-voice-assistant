@@ -14,7 +14,7 @@ sudo ./install.sh
 
 -----------------------
 
-# Manual Install
+# Manual Install (Recommended - Easier to debug)
 
 ## Raspberry Pi Voice Assistant Setup Guide
 
